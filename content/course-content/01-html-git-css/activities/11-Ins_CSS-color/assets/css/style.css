@@ -1,8 +1,14 @@
 .section {
   /*Sets the height and width of the section */
   width: 200px;
-  height: 200px
+  height: 200px;
 }
+
+/*.box-green {
+
+  
+  background-color: green;
+}*/
 
 .box-blue {
   /* Sets font color */
@@ -16,6 +22,20 @@
   color: #0000ff;
   background-color: #ffa500;
 }
+
+/*depending on which is defined last*/
+/*.box-green {
+  
+  background-color: green;
+}*/
+
+.box-black {
+  /* Uses predefined colors to define color */
+  
+  background-color: black;
+}
+
+
 
 #box-yellow {
   /* Uses predefined colors to define color */

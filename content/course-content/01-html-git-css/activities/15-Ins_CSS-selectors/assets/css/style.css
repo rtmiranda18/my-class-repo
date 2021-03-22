@@ -1,6 +1,7 @@
 /* Universal Selector */
 * {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
 }
 
 /* Element Selectors select all of that element type */
@@ -11,6 +12,7 @@ body {
 section {
   height: 200px;
   width: 300px;
+  /*background-color: red;*/
 }
 
 p {

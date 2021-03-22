@@ -3,14 +3,14 @@ body {
 }
 
 h1,
-h2,
-h3 {
+h2 {
   text-align: center;
 }
 
 h3 {
   font-size: 20px;
   line-height: 2px;
+
 }
 
 h4 {
@@ -49,4 +49,5 @@ section {
 /* Sets display of all elements with class selector to inline */
 .display-none {
   display: none;
+  /*visibility: hidden;*/
 }
